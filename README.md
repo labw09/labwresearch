@@ -1,4 +1,4 @@
-# Allan Lab Website
+# Wilson lab home
 
 This is the website of our academic research group at Leiden University.
 
